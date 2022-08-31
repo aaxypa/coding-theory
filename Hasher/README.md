@@ -7,5 +7,5 @@ What are you talking about? [Learn more about hash algorithm here](https://www.y
 
 File included:
 
--    fin1.py - Asks for word to be hashed (no spaces & special characters)
+-    hasher.py - Asks for word to be hashed (no spaces & special characters)
 -    output.png - A screenshot of the process.
